@@ -22,7 +22,7 @@ import (
 	_ "github.com/minio/minio/cmd/gateway/gcs"
 	_ "github.com/minio/minio/cmd/gateway/hdfs"
 	_ "github.com/minio/minio/cmd/gateway/nas"
-	_ "github.com/minio/minio/cmd/gateway/s3"
+	_ "github.com/hassanbabaie/minio/cmd/gateway/s3"
 
 	// B2 is specifically kept here to avoid re-ordering by goimports,
 	// please ask on github.com/minio/minio/issues before changing this.
