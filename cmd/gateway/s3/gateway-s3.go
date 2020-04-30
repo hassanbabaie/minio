@@ -34,7 +34,7 @@ import (
 	"github.com/minio/minio-go/v6/pkg/encrypt"
 	"github.com/minio/minio-go/v6/pkg/s3utils"
 	"github.com/minio/minio/cmd/logger"
-	"github.com/minio/minio/pkg/auth"
+	"github.com/hassanbabaie/minio/pkg/auth"
 	"github.com/minio/minio/pkg/bucket/policy"
 )
 
